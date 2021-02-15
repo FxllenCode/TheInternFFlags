@@ -1,7 +1,8 @@
 {
 
     "test1" : true,
-    "level1open" : true
+    "level1open" : true,
+    "allfflagsenabled" : true
 
 
 }
