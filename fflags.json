@@ -1,6 +1,7 @@
 {
 
-    "test1" : true
+    "test1" : true,
+    "level1open" : true
 
 
 }
