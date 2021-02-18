@@ -2,7 +2,8 @@
 
     "test1" : true,
     "level1open" : true,
-    "allfflagsenabled" : true
+    "allfflagsenabled" : true,
+    "shopopen" : false
 
 
 }
