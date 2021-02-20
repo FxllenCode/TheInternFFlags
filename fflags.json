@@ -3,7 +3,8 @@
     "test1" : true,
     "level1open" : true,
     "allfflagsenabled" : true,
-    "shopopen" : false
+    "shopopen" : false,
+    "shoptext" : "Currently under construction!"
 
 
 }
