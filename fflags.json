@@ -1,10 +1,23 @@
 {
-
-    "test1" : true,
-    "level1open" : true,
-    "allfflagsenabled" : true,
-    "shopopen" : true,
-    "shoptext" : "Currently under construction!"
-
-
-}
+    "content": "New Data Issue:",
+    "embeds": [
+      {
+        "title": "Data Error",
+        "description": "A new data error has been detected for the following user:\n\n$username",
+        "color": 16734296,
+        "fields": [
+          {
+            "name": "Error Message",
+            "value": "$error"
+          },
+          {
+            "name": "Current Data",
+            "value": "$data"
+          }
+        ],
+        "author": {
+          "name": "$username"
+        }
+      }
+    ]
+  }
